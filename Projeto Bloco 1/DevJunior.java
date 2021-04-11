@@ -8,7 +8,4 @@ public class DevJunior extends Funcionarios{
 	}
 	
 	
-	
-	
-	
 }
